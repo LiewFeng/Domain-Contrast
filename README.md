@@ -24,7 +24,7 @@ In our experiments, we used two pre-trained models on ImageNet, i.e., VGG16 and 
 Download them and put them into the data/pretrained_model/.
 
 ### Train and Test
-All specific hyperparameters are in the .sh file. Run with the following codes and you will get the results.
+All specific hyperparameters are in the shell scripts. Run with the following commands and you will get the results.
 **Pascal2Clipart**: 
 
 ```
