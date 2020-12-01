@@ -27,34 +27,39 @@ Download them and put them into the data/pretrained_model/.
 All specific hyperparameters are in the .sh file. Run with the following codes and you will get the results.
 **Pascal2Clipart**: 
 
-```bash pascal2clipart.sh
+```
+bash pascal2clipart.sh
 ```
 
 **Pascal2Comic**: 
 
 
 
-```bash pascal2comic_vgg16.sh
+```
+bash pascal2comic_vgg16.sh
 ```
 
-```bash pascal2comic_resnet101.sh
+```
+bash pascal2comic_resnet101.sh
 ```
 
 **Pascal2Watercolor**: 
 
 
 
-```bash pascal2watercolor.sh
+```
+bash pascal2watercolor.sh
 ```
 
 **SIM10K2Cityscape**: 
 
 
 
-```bash sim10k2city.sh
+```
+bash sim10k2city.sh
 ```
 
-###Results
+### Results
 
 
 
