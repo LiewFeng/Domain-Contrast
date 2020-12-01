@@ -1,6 +1,6 @@
 ## Domain Contrast
 
-The code is built based on the [faster-rcnn](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0). Please follow original project respository to setup the environment.
+The code is built based on the [faster-rcnn](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0). Please follow original project respository to set up the environment.
 
 
 ### Data Preparation
